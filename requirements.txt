@@ -1,0 +1,5 @@
+python-dotenv
+numpy
+rich
+pandas
+groq
